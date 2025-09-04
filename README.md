@@ -14,7 +14,7 @@
 - 🌟 *Undergraduate Student* at the **Sri Lanka National Institute of Business Management (NIBM)**, specializing in **Software Engineering**.  
 - 💻 Passionate about **.NET, C#, Java Spring Boot, HTML, CSS, JS, and Flutter**.  
 - 🎨 Exploring **UI/UX Engineering** to design user-friendly digital experiences.  
-- 📧 Reach me: [your-email-here@gmail.com](mailto:your-email-here@gmail.com)  
+- 📧 Reach me: [senulisithmanthi386@gmail.com](mailto:senulisithmanthi386@gmail.com)  
 - 🤝 Team player with a strong interest in collaborative projects.  
 - 🎯 *2025 Goals*: Advance in **Mobile App Development**, improve **Python**, and build exciting **UI/UX-driven projects**.  
 
