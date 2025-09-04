@@ -24,9 +24,9 @@
 
 ### 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=holi&hide_title=true&rank_icon=github)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=holi)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=holi)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SithmanthiPerera&show_icons=true&theme=holi&hide_title=true&rank_icon=github)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SithmanthiPerera&layout=compact&theme=holi)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SithmanthiPerera&theme=holi)  
 
 </div>
 
